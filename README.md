@@ -4,3 +4,4 @@ The goal of this project is to analyze the vehicle movement and alerting the par
 In this paper, we propose a method where parents are controlling the speed of vehicles. When the student is driving the vehicle with speed more than 60 KMPH, the alert system sends a message to the parent. Now parent can take actions to reduce the speed. In this scenario, there must be provision where parents are controlling the speed and there must be alert system which sends the message if speed is exceeding the limits. These things can be done by the manufacturer of vehicles themselves, but for practical use we can’t limit the speed of emergency vehicles like ambulances, fire engines etc. so we propose a method where parents are taking active participation in this and controlling their wards regarding the speed. This also saves lot Fuel energy and air pollution can be minimized.
 
 # Project1
+# Project1
